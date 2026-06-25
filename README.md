@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Nour 👋  Product & Data Analyst
 
-<!--
-**Nouralmokhtar/Nouralmokhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn product, SAAS, healthcare, and iGaming data into decisions leadership acts on —
+not just charts.
 
-Here are some ideas to get you started:
+**Featured work**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project |                             The decision it drives                  | Stack |
+
+| Player Value & Responsible Gaming | Grow NGR without growing harm | BigQuery · SQL · Tableau |
+| SaaS Revenue & Retention          | Invest in churn vs. expansion | BigQuery · SQL · Tableau |
+| Patient No-Show Reduction         | Recover clinician capacity    | BigQuery · SQL · Tableau |
+
+🔧 SQL · BigQuery · Tableau · Excel · product metrics (MRR, retention, CLTV, CAC, GGR/NGR)
+📫 Nour.Moo1996@gmail.com
